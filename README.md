@@ -3,7 +3,7 @@
 🎓 **Computer Science Student** at the Georgia Institute of Technology (AI + Information Networks)  
 💻 **Software Engineer Intern @ Delta Air Lines** | Former Intern @ U.S. Department of Defense  
 📍 Based in Atlanta, GA | Expected Graduation: **Dec 2026**  
-📧 mabounassar@gatech.edu  
+📧 mabounassar3@gatech.edu  
 
 ---
 
