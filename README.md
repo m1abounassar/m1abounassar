@@ -24,25 +24,25 @@ Outside of work, I’m active in Georgia Tech’s **International Ambassador Pro
 
 ## 🧩 Featured Projects
 
-### 🎓 [Course Enrollment Web App (React + Next.js)](https://github.com/m1abounassar/course-enrollment)
+### 🎓 [Course Enrollment Web App (React + Next.js)](https://github.com/m1abounassar/CapstoneSoftware)
 Led frontend development for a full-stack course-enrollment platform integrated with **Georgia Tech SSO** and a **Node.js + MySQL backend**.  
 Built in React + TypeScript with accessibility (WCAG 2.1 AA) and Jest/RTL tests integrated into CI/CD, improving UI reliability by 30%.
 
 ---
 
-### 🧠 [Thyroid Nodule Malignancy Prediction (Machine Learning)](https://github.com/m1abounassar/thyroid-nodule-ml)
+### 🧠 [Thyroid Nodule Malignancy Prediction (Machine Learning)](https://github.com/m1abounassar/Thyroid-Nodule-Malignancy-Prediction-Using-Machine-Learning)
 Implemented **Random Forest**, **K-Means**, and **Neural Network** models in a Jupyter Notebook to predict malignant thyroid nodules.  
 Included full data preprocessing, feature selection, and model comparison using ROC-AUC and F1 metrics.
 
 ---
 
-### 🤖 [Trash Sorting Robot (Bayesian Simulation)](https://github.com/m1abounassar/trash-sorting-robot)
+### 🤖 [Trash Sorting Robot (Bayesian Simulation)](https://github.com/m1abounassar/Bayesian-Trash-Classifier-AI-Trash-Sorting-Robot)
 Simulated an intelligent robot that classifies waste using **Bayesian inference** and **probabilistic modeling**.  
 Combined discrete and Gaussian conditional probabilities with cost-based decision logic to optimize sorting accuracy.
 
 ---
 
-### ⚙️ [Custom CPU Design (CircuitSim)](https://github.com/m1abounassar/custom-cpu-design)
+### ⚙️ [Custom CPU Design (CircuitSim)](https://github.com/m1abounassar/LC-3300-Processor)
 Designed and implemented a full **multi-cycle CPU** in CircuitSim with a custom instruction set architecture.  
 Includes a full datapath, control unit, ALU, memory, and FSM capable of fetching, decoding, and executing assembly programs.
 
@@ -67,7 +67,7 @@ Includes a full datapath, control unit, ALU, memory, and FSM capable of fetching
 
 ## 📬 Connect with Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/matthew-abounassar/)  
-- ✉️ [Email](mailto:mabounassar@gatech.edu)  
+- ✉️ [Email](mailto:mabounassar3@gatech.edu)  
 - 🧠 [LeetCode](https://leetcode.com/u/mabounassar/)
 
 ---
