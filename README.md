@@ -66,7 +66,7 @@ Includes a full datapath, control unit, ALU, memory, and FSM capable of fetching
 ---
 
 ## 📬 Connect with Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/matthew-abounassar/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/matthew-abounassar-152943290/)  
 - ✉️ [Email](mailto:mabounassar3@gatech.edu)  
 - 🧠 [LeetCode](https://leetcode.com/u/mabounassar/)
 
