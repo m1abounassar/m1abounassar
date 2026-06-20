@@ -13,7 +13,7 @@ I'm a software engineer focused on building scalable backend systems, data platf
 
 My experience spans financial technology, cloud infrastructure, enterprise data engineering, and systems programming. I enjoy working on projects that combine distributed systems, large-scale data processing, backend services, and modern web development.
 
-Recently I've worked on:
+Recently I've worked at:
 
 * 🏦 **Wells Fargo Corporate Investment Banking** — Developing enterprise risk platform services that process 25+ GB of trading data daily from Bloomberg and 300+ upstream market data sources
 * ✈️ **Delta Air Lines** — Built AWS Glue, Lambda, and Step Functions for data pipelines processing 50K+ crew scheduling records daily
