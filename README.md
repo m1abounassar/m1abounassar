@@ -16,9 +16,9 @@ My experience spans financial technology, cloud infrastructure, enterprise data 
 Recently I've worked on:
 
 * 🏦 **Wells Fargo Corporate Investment Banking** — Developing enterprise risk platform services that process 25+ GB of trading data daily from Bloomberg and 300+ upstream market data sources
-* ✈️ **Delta Air Lines** — Building AWS Glue and Lambda data pipelines processing 50K+ crew scheduling records daily
-* 🛰️ **U.S. Department of Defense** — Developing C and Qt-based software supporting radar and electronic warfare systems
-* 🎓 **Georgia Tech Capstone** — Leading backend development for a course enrollment platform serving 8,000+ students
+* ✈️ **Delta Air Lines** — Built AWS Glue, Lambda, and Step Functions for data pipelines processing 50K+ crew scheduling records daily
+* 🛰️ **U.S. Department of Defense** — Developed C and Qt-based software supporting radar and electronic warfare systems
+* 🎓 **Georgia Tech Capstone** — Lead backend development for a course enrollment platform serving 8,000+ students
 
 I'm particularly interested in:
 
