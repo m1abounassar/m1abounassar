@@ -1,80 +1,154 @@
 # 👋 Hi, I'm Matthew Abounassar
 
-🎓 **Computer Science Student** at the Georgia Institute of Technology (AI + Information Networks)  
-💻 **Software Engineer Intern @ Delta Air Lines** | Former Intern @ U.S. Department of Defense  
-📍 Based in Atlanta, GA | Expected Graduation: **Dec 2026**  
-📧 mabounassar3@gatech.edu  
+🎓 **B.S. Computer Science @ Georgia Tech** (Systems & Networks + AI)
+💻 **Software Engineering Intern @ Wells Fargo Corporate Investment Banking**
+📍 Charlotte, NC | Expected Graduation: **December 2026**
+📧 [mabounassar3@gatech.edu](mailto:mabounassar3@gatech.edu)
 
 ---
 
 ## 🧠 About Me
 
-I'm a systems-focused software engineer passionate about **scalable data pipelines**, **full-stack web apps**, and **AI-driven automation**.  
-I love building production-ready systems that bridge backend logic, data engineering, and intuitive UI design.  
+I'm a software engineer focused on building scalable backend systems, data platforms, and full-stack applications.
 
-My career so far has spanned:
-- ✈️ **Delta Air Lines** – Architecting AWS Glue/Lambda pipelines processing 50K+ crew records daily  
-- 🛰️ **Department of Defense (Robins AFB)** – Building real-time avionics GUIs for radar and jamming systems  
-- 🏫 **Georgia Tech Capstone** – Leading a full-stack React/Next.js course-enrollment app serving 8K+ students  
-- 🧬 **UGA Kinesiology Department** – Applying ML to health sensor data (AUC 0.86) via Databricks pipelines  
+My experience spans financial technology, cloud infrastructure, enterprise data engineering, and systems programming. I enjoy working on projects that combine distributed systems, large-scale data processing, backend services, and modern web development.
 
-Outside of work, I’m active in Georgia Tech’s **International Ambassador Program**, **GreyHat Cybersecurity**, and play **club-level golf and tennis**.
+Recently I've worked on:
 
----
+* 🏦 **Wells Fargo Corporate Investment Banking** — Developing enterprise risk platform services that process 25+ GB of trading data daily from Bloomberg and 300+ upstream market data sources
+* ✈️ **Delta Air Lines** — Building AWS Glue and Lambda data pipelines processing 50K+ crew scheduling records daily
+* 🛰️ **U.S. Department of Defense** — Developing C and Qt-based software supporting radar and electronic warfare systems
+* 🎓 **Georgia Tech Capstone** — Leading backend development for a course enrollment platform serving 8,000+ students
 
-## 🧩 Featured Projects
+I'm particularly interested in:
 
-### 🎓 [Course Enrollment Web App (React + Next.js)](https://github.com/m1abounassar/CapstoneSoftware)
-Led frontend development for a full-stack course-enrollment platform integrated with **Georgia Tech SSO** and a **Node.js + MySQL backend**.  
-Built in React + TypeScript with accessibility (WCAG 2.1 AA) and Jest/RTL tests integrated into CI/CD, improving UI reliability by 30%.
-
----
-
-### 🧠 [Thyroid Nodule Malignancy Prediction (Machine Learning)](https://github.com/m1abounassar/Thyroid-Nodule-Malignancy-Prediction-Using-Machine-Learning)
-Implemented **Random Forest**, **K-Means**, and **Neural Network** models in a Jupyter Notebook to predict malignant thyroid nodules.  
-Included full data preprocessing, feature selection, and model comparison using ROC-AUC and F1 metrics.
+* Distributed Systems
+* Data Engineering
+* Cloud Infrastructure
+* Backend Development
+* Financial Technology
+* AI-Powered Developer Tools
 
 ---
 
-### 🤖 [Trash Sorting Robot (Bayesian Simulation)](https://github.com/m1abounassar/Bayesian-Trash-Classifier-AI-Trash-Sorting-Robot)
-Simulated an intelligent robot that classifies waste using **Bayesian inference** and **probabilistic modeling**.  
-Combined discrete and Gaussian conditional probabilities with cost-based decision logic to optimize sorting accuracy.
+## 🚀 Featured Projects
+
+### 🎓 Course Enrollment Platform
+
+**React • Next.js • PHP • MySQL**
+
+Led backend development for a full-stack course enrollment platform built for Georgia Tech students.
+
+* Designed backend schemas and APIs for dynamic course management
+* Integrated authentication and enrollment workflows
+* Collaborated with a 4-person engineering team
+* Served 8,000+ students in a production-style academic environment
+
+🔗 https://github.com/m1abounassar/CapstoneSoftware
 
 ---
 
-### ⚙️ [Custom CPU Design (CircuitSim)](https://github.com/m1abounassar/LC-3300-Processor)
-Designed and implemented a full **multi-cycle CPU** in CircuitSim with a custom instruction set architecture.  
-Includes a full datapath, control unit, ALU, memory, and FSM capable of fetching, decoding, and executing assembly programs.
+### ⚙️ Custom CPU Architecture
+
+**CircuitSim • Computer Architecture**
+
+Designed and implemented a multi-cycle processor from the ground up.
+
+* Built datapath, control unit, memory, and ALU
+* Implemented custom ISA support
+* Developed fetch, decode, and execute instruction cycles
+* Executed assembly programs on custom hardware design
+
+🔗 https://github.com/m1abounassar/LC-3300-Processor
 
 ---
 
-## 🧰 Technical Skills
+### 🧠 Thyroid Nodule Malignancy Prediction
 
-**Languages:** Java, Python, JavaScript/TypeScript, SQL, C++  
-**Frameworks/Tools:** React, Node.js, AWS (Glue · Lambda · CDK), Docker, Jest, Tableau, Spotfire  
-**Concepts:** Data Engineering, Distributed Systems, ML Modeling, Full-Stack Web Dev  
-**Languages Spoken:** English · Slovak · German · Czech  
+**Python • Machine Learning • Jupyter**
+
+Developed machine learning models to classify malignant thyroid nodules.
+
+* Random Forest
+* Neural Networks
+* Clustering Analysis
+* ROC-AUC and F1 Evaluation
+
+🔗 https://github.com/m1abounassar/Thyroid-Nodule-Malignancy-Prediction-Using-Machine-Learning
+
+---
+
+### 🤖 Bayesian Trash Sorting Robot
+
+**Python • Bayesian Inference**
+
+Created a probabilistic classification system that simulates intelligent waste sorting.
+
+* Bayesian decision making
+* Gaussian probability distributions
+* Cost-based optimization
+* Classification accuracy analysis
+
+🔗 https://github.com/m1abounassar/Bayesian-Trash-Classifier-AI-Trash-Sorting-Robot
+
+---
+
+## 🛠 Technical Skills
+
+### Languages
+
+Python • Java • JavaScript/TypeScript • SQL • C++ • C# • C
+
+### Frameworks & Libraries
+
+React • Next.js • Node.js • Jest
+
+### Cloud & Infrastructure
+
+AWS (Glue, Lambda, S3, EC2, Step Functions) • Docker • Linux • CI/CD
+
+### Data Technologies
+
+Dremio • Parquet • PostgreSQL • MySQL
+
+### Software Engineering
+
+REST APIs • Distributed Systems • Data Pipelines • Full-Stack Development • Test Automation
+
+### Spoken Languages
+
+English • Slovak • German • Czech
 
 ---
 
 ## 🏆 Highlights
-- 🧑‍💻 Faculty Honors & Dean’s List Scholar @ Georgia Tech  
-- 🎯 Reduced manual data prep at Delta by 80% through automation  
-- ⚡ Improved enrollment API performance by 45% via optimized query handling  
-- 🤝 40+ hours of community volunteer work via GivePulse  
+
+* Faculty Honors Scholar, Georgia Tech
+* Dean's List Scholar
+* HOPE Scholarship Recipient
+* Software Engineering Intern at Wells Fargo CIB Technology
+* Former Software Engineering Co-op at Delta Air Lines
+* Former Software Engineering Intern supporting U.S. Department of Defense systems
 
 ---
 
-## 📬 Connect with Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/matthew-abounassar-152943290/)  
-- ✉️ [Email](mailto:mabounassar3@gatech.edu)  
-- 🧠 [LeetCode](https://leetcode.com/u/mabounassar/)
+## 📬 Connect With Me
+
+💼 LinkedIn
+https://www.linkedin.com/in/matthew-abounassar-152943290/
+
+🧠 LeetCode
+https://leetcode.com/u/mabounassar/
+
+📧 Email
+mailto:mabounassar3@gatech.edu
 
 ---
 
-![Matthew's GitHub stats](https://github-readme-stats.vercel.app/api?username=m1abounassar&show_icons=true&theme=tokyonight&hide_rank=false)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m1abounassar&layout=compact&theme=tokyonight)
+![Matthew's GitHub stats](https://github-readme-stats.vercel.app/api?username=m1abounassar\&show_icons=true\&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m1abounassar\&layout=compact\&theme=tokyonight)
 
 ---
 
-⭐ *Thanks for visiting my GitHub — feel free to explore my projects or reach out for collaboration!*
+⭐ Thanks for visiting my GitHub! Feel free to explore my projects or connect with me.
